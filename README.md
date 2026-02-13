@@ -41,13 +41,6 @@
 - Backoffice and SaaS platforms
 - Automation and operational reliability solutions
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
-</p>
 
 ---
 
